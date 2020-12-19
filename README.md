@@ -1,6 +1,8 @@
 # robokadai1
+## 作成者
+嶋田　雅
 ## 内容
-上田教授による、デバイスドライバを作成する。
+https://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled.c 左のURLを改変しデバイスドライバを作成した。
 ## 必要なもの
 ラズベリーパイ　４　モデルＢ　４ＧＢ　ＲＡＭ、ブレッドボードSAD-101、ワイヤージャンパ（オスオス）ｘ２（オスメス）ｘ３、LEDｘ２
 ## 実装機能 
@@ -16,3 +18,6 @@ echo y > /dev/myled0
 加藤舞子、小村岳都、西廣巧
 ## YouTube　URL
 https://youtu.be/a5FOhhGdUm8
+
+## ライセンス
+GNU General Public License v3.0
